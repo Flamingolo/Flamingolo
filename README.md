@@ -10,7 +10,7 @@ I'm focused on front-end development and making user friendly products, however 
 
 - **Back-end**: Golang
 - **Database**: SQLite
-- **Front-end**: HTML, CSS, JavaScript
+- **Front-end**: HTML, CSS, JavaScript, React
 - **Version control**: Git
 - **Project management**: Jira, Trello
 
